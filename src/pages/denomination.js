@@ -354,7 +354,7 @@ function Denomination() {
             {amount.max ? (<h5>Sorry, maximum input is 1 billion</h5>) : null}
           {num.visible ? (
             <div>
-              <h5>Your have entered this amount Rp{rp},00</h5>
+              <h5>You have entered this amount Rp{rp},00</h5>
               <h5>Denomination result :</h5>
             </div>
           ) : null}
